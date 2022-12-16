@@ -5,12 +5,15 @@
 ### Автор: Nil Khasanov
 Ссылка на репозиторий с уроком про животных: https://github.com/Fossean1/wild_animals
 
+Ссылка на репозиторий с уроком про geometric_lib: https://github.com/Fossean1/geometric_lib
+
 #### Ход работы
 ```
 * git clone https://github.com/smartiqaorg/geometric_lib
 * git checkout feature
 * git checkout develop
 * git log --graph -–all
+* git checkout main
 * git merge develop --no-ff
 * git reset --hard HEAD^
 * git merge develop
